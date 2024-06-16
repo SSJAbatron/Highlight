@@ -1,5 +1,5 @@
 # Highlight
-![GamePlay]()
+![GamePlay](https://github.com/SSJAbatron/Highlight/blob/main/GameScreen_Highlight.jpg)
 Gamer2Maker GameJam Game
 > This is the first ever game jam conducted by Gamer2Maker and the theme was __High__.
 
